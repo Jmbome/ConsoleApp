@@ -1,0 +1,15 @@
+﻿'C++Project.exe' (Win32): Loaded 'C:\Users\joemb\OneDrive\Desktop\C++Project\x64\Debug\C++Project.exe'. Symbols loaded.
+'C++Project.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'C++Project.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'C++Project.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'C++Project.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'C++Project.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'C++Project.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'C++Project.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x86c has exited with code 0 (0x0).
+'C++Project.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'C++Project.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'C++Project.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+The thread 0x6558 has exited with code 0 (0x0).
+The thread 0x6a90 has exited with code 0 (0x0).
+The program '[21836] C++Project.exe' has exited with code 0 (0x0).
